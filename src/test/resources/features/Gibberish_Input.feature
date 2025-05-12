@@ -1,3 +1,4 @@
+@GibberishInput
 Feature: Verify no result message is shown for gibberish input
   Background: 
     Given User is on the SportingBull homepage

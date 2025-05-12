@@ -1,3 +1,4 @@
+@CloseButton
 Feature: Verify search bar close button functionality
 
   Background:

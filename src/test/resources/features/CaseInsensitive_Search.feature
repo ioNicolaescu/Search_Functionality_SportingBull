@@ -1,3 +1,4 @@
+@CaseInsensitive
 Feature: Verify search functionality is case-insensitive
 
   Background:

@@ -1,3 +1,4 @@
+@Spaces
 Feature: Verify input trimming in search functionality
 
   Background:
