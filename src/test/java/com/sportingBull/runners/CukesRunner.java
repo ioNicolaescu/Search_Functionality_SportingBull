@@ -11,9 +11,9 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
         features = "src/test/resources/features",
-        glue = "com/com.sportingBull/step_definitions",
-        dryRun = true,
-        tags = "",
+        glue = "com/sportingBull/step_definitions",
+        dryRun = false,
+        tags = "@ValidInput",
         publish = true
 )
 public class CukesRunner { }
